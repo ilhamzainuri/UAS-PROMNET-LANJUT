@@ -30,7 +30,7 @@
           </div>
           <div class="carousel-inner">
 
-            <!-- Slide 1 -->
+    
             <div class="carousel-item active">
               <div class="row">
                 <div class="col-md-4">
